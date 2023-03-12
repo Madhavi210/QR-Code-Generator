@@ -1,6 +1,6 @@
 # QR-Code-Generator
 
-Preview 
+Preview 👇🏻
 
 https://madhavi210.github.io/QR-Code-Generator/
 
